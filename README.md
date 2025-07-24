@@ -63,11 +63,6 @@ Developed a pipeline to replicate structured SQL data into graph-based knowledge
 Strong experience with **Linux-based systems** and software engineering best practices.
 ---
 
-## 📊 GitHub Stats
-
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimoradi296&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimoradi296&layout=compact&theme=radical)
-
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ali-moradi-1b1b12213/)
 - 💌 moradikor296@gmail.com| 
