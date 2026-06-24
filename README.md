@@ -1,68 +1,21 @@
-# 👋 Hi, I'm Ali Moradi
+ # Ali Moradi
 
-🚀 NLP Engineer | Agentic Workflows | AI Developer  
-📍 Kerman, Iran | 🌐 Remote-First Mindset  
-I build real-world AI systems from the ground up — NLP, agents,model fine-tuning, and the backend that powers them.
----
+  > code talks.
 
---
+  **AI Software Engineering · Agents · Backend**
 
-## 🤝 About Me
+  ---
 
-- I love working in **collaborative teams** — learning from others and building things together.
-- Passionate about building **AI products** that are useful, scalable, and intelligent.
-- Curious by nature — always learning, exploring new tools, reading papers, and experimenting.
-- Experienced in building **production-grade backend systems** for AI pipelines and services.
-- Comfortable working across **Linux environments**, with a solid understanding of systems-level operations.
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+  ![PydanticAI](https://img.shields.io/badge/Pydantic_AI-E92063?style=flat&logo=pydantic&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
----
-
-
-## 🧠 What I'm Working On
-
-### 🛍️ Danobin – AI for E-commerce (Co-founder)  
-We build AI-powered tools for online retailers.  
-I focus on agentic pipelines, LLM tools, and backend services for content generation, classification, and automation.  
-→ Stack: `LangChain`,  `FastAPI`, `Docker`, `MongoDB`
-
----
-
-## 🧠 Projects I've Built
-
-
-### 🏥 Clinic Chatbot Agent  
-Designed and implemented an AI agent that interacts with doctors and patients.  
-→ Used FastAPI + LangChain + tool calling + prompt engineering with memory and retrieval.
-
-### 📨 Text Classification System for Emalls  
-Built an NLP pipeline to auto-categorize product titles/descriptions.  
-→ Used traditional ML + transformer-based models.
-
-### 🔍 Image-based Visual Search  
-Collaborated on a visual product search tool using embeddings.  
-→ Focused on data preprocessing, vector storage, and FAISS retrieval.
-
-### 🧠 SQL-to-Knowledge Graph Converter  
-Developed a pipeline to replicate structured SQL data into graph-based knowledge representations.
-
-
----
-
-## 🛠 Tech Stack
-
-**Languages & Frameworks**  
-`Python` · `FastAPI` · `LangChain` . `Pydantic-AI` · `Pydantic` · `PyTorch (basic)` · `SQL` . `Shell`
-
-**AI & NLP**  
-`LLMs` · `Prompt Engineering` · `Hugging Face Transformers` · `Text Classification` · `RAG (basic)`  
-`AI Agents`  · `Vector Stores` · `FAISS` . `Fine-Tuning` 
-
-**Infrastructure**  
-`Docker` · `MongoDB` · `Linux` · `Git` · `REST APIs`
-
-Strong experience with **Linux-based systems** and software engineering best practices.
----
-
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ali-moradi-1b1b12213/)
-- 💌 moradikor296@gmail.com| 
+  ---
+  [LinkedIn](https://www.linkedin.com/in/ali-moradi-1b1b12213/) · [Medium](https://medium.com/@moradikor296) · moradikor296@gmail.com
